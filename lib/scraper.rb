@@ -11,7 +11,6 @@ class Scraper
       student_hash = {}
       student_hash[:name] = el.css(".student-name").text
       student_hash[:location] = el.css(".student-location").text
-      # binding.pry
       student_hash[:profile_url] = el.css("a")[0]["href"]
       return_array << student_hash
     end
@@ -29,8 +28,8 @@ class Scraper
     page.css("div .social-icon-container a").each do | el |
       if el['href'].include?("twitter")
         student_hash[:twitter] = el['href']
-      elsif el['href'].include?("facebook")
-        student_hash[:facebook] = el['href']
+      # elsif el['href'].include?("facebook")
+      #   student_hash[:facebook] = el['href']
       elsif el['href'].include?("github")
         student_hash[:github] = el['href']
       elsif el['href'].include?("linkedin")
