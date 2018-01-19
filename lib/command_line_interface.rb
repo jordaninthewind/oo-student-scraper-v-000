@@ -7,6 +7,7 @@ class CommandLineInteface
   BASE_PATH = "./fixtures/student-site/"
 
   def run
+    binding.pry
     make_students
     add_attributes_to_students
     display_students
