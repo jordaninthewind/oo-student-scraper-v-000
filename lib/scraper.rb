@@ -11,7 +11,7 @@ class Scraper
       student_hash = {}
       student_hash[:name] = el.css(".student-name").text
       student_hash[:location] = el.css(".student-location").text
-      binding.pry
+      # binding.pry
       student_hash[:profile_url] = el.css("a")[0]["href"]
       return_array << student_hash
     end
