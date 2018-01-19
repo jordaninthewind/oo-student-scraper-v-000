@@ -1,0 +1,31 @@
+=> [[32m#<Student:0x00000002045b58[0m
+  @bio[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  @location[32m=[0m[31m[1;31m"[0m[31mNew York, NY[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mRyan Johnson[1;31m"[0m[31m[0m,
+  @profile_quote[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Student:0x00000002045b08[0m
+  @bio[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  @location[32m=[0m[31m[1;31m"[0m[31mGlenelg, MD[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mEric Chu[1;31m"[0m[31m[0m,
+  @profile_quote[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Student:0x00000002045ae0[0m
+  @bio[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  @location[32m=[0m[31m[1;31m"[0m[31mScottsdale, AZ[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mAaron Enser[1;31m"[0m[31m[0m,
+  @profile_quote[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Student:0x00000002045ab8[0m
+  @bio[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  @location[32m=[0m[31m[1;31m"[0m[31mScottsdale, AZ[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mBrigan Enser[1;31m"[0m[31m[0m,
+  @profile_quote[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Student:0x00000002045a90[0m
+  @bio[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  @location[32m=[0m[31m[1;31m"[0m[31mMinnesota[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mJoe LaChance[1;31m"[0m[31m[0m,
+  @profile_quote[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Student:0x00000002045a68[0m
+  @bio[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m,
+  @location[32m=[0m[31m[1;31m"[0m[31mNew York, NY[1;31m"[0m[31m[0m,
+  @name[32m=[0m[31m[1;31m"[0m[31mAdrian Prieto[1;31m"[0m[31m[0m,
+  @profile_quote[32m=[0m[31m[1;31m"[0m[31m[1;31m"[0m[31m[0m[32m>[0m,
+ [32m#<Student:0x00000002045a40[0m
